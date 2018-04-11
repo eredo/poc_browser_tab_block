@@ -1,6 +1,6 @@
-# shared state / blocking
+# PoC shared state / blocking across browser tabs
 
-Simple example of blocking operations across two browser tabs.
+Simple proof of concept on how to block operations across multiple browser tabs.
 
 ## Run
 
