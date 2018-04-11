@@ -1,0 +1,9 @@
+name: poc_browser_tab_block
+
+dependencies:
+  build: ^0.12.1
+  build_config: ^0.2.6
+
+dev_dependencies:
+  build_runner: ^0.8.0
+  build_web_compilers: ^0.3.4
